@@ -1,2 +1,2 @@
 # tryGit
-Learn Git 
+Learn Git commands
